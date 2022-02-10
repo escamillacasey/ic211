@@ -1,0 +1,6 @@
+Key Issues:
+  Order of lists (nouns/adjectives/etc)
+    Must create a reverse function or reverse manually (addToList creates
+    a backwards list...intentional?)
+    -Use println to end the line not \n or the tests will fail...
+

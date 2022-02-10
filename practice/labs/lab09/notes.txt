@@ -1,0 +1,5 @@
+Error Handling
+
+Check for too low of monthly payment
+
+Extra points for something that makes you chuckle

@@ -1,0 +1,5 @@
+Be careful for off by one erros (use while temp != null rather than temp !=
+tail...)
+
+Test cases for earlier parts...result in failed due to what's expected from
+later parts...DISCUSS?

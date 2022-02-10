@@ -1,0 +1,8 @@
+Part 2
+  Ambiguous statement about how to handle clearto...
+    Should it ignor the command
+    or clear to the closest matching word in the queue
+    *Recommend ignore the command
+
+  Unsure of what to do when overriding enqueue without throwing an exception
+    use toArray() without try/catch?

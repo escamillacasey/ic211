@@ -1,0 +1,13 @@
+To run: java Lab06 not java -jar Lab6.jar...
+
+Be aware of the color tag at the end of each line (dilineates colors...)
+
+Be creative
+
+No canned tests, make your own (and be persistent)
+
+Take your time on your README (don't lose silly points), describe precisely
+what the points do, you will be graded on this.
+
+
+Be ready to demonstrate next lab

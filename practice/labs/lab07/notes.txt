@@ -1,0 +1,6 @@
+Updated makefile on submit, Lab7 --> Lab07
+
+Lab07:
+  Must use nextDouble, not nextFloat to get the prob events to work
+  Also, the next Random should only be called if the event happens on that
+  day...

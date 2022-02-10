@@ -1,0 +1,9 @@
+Unsolicited advice:
+  PLAN YOUR CODE!
+  If you need to do something more than once, make a functions
+  static final for Rotor string defintions
+  take your time (off by one values will eat you alive here)
+  TEST EACH STEP (as you go)
+
+
+

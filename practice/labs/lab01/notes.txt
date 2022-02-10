@@ -1,0 +1,15 @@
+Walk through of:
+  HelloWorld
+  Java API Documentation
+  Casting
+  Packages
+  bashrc
+
+For submit:
+  The submit system checks for exactly the same output...make sure to follow
+  the template.
+  Pay attention to types and formatting!!!!! (int, float, double print out
+  differently)
+
+
+

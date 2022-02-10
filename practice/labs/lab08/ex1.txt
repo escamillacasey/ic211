@@ -1,0 +1,12 @@
+add foo
+add bar
+damp
+add foo
+add bat
+add cat
+add bar
+dump
+clearto bar
+dump
+quit
+
